@@ -1,0 +1,324 @@
+@media screen and (min-width: 1366px) and (max-width: 1600px){
+    .login_screen_bg { padding: 78px 0; height: 646px;}
+    #nav-top.nav > li { margin-right: 0; margin-left: -2px;}
+    #nav-top.nav a { padding: 0.8em 1.6em 0.4em;}
+    .cst_ico img { width: 15px;}
+    .api_ico img, .notification_ico img { width: 20px;}
+    .small_icon { width: 6px !important; left: 32px; top: 12px;}
+    .for-sm-xs .nav > li:last-child a { margin-top: -8px;}
+    .comon_bg_style { margin-top: 15px; height: 320px; margin-bottom: 20px; overflow: scroll;}
+    #container, #container1, #container2 { height: 242px;}
+    .graph-cont a img { width: 50px;}
+    .main_malware .malware_modal .modal_inner_padding .nav-tabs { border-bottom: none;}
+    .threat_intel_section { height: 330px;}
+    .security_tips_inner_section { height: 300px;}
+    .agglometer_inner_section { height: 600px;}
+    .all { width: auto;}
+    .security_tools_inner { margin-top: 10px; height: 210px;}
+    #issuerCountry, #targetCountry { margin-left: 0;}
+    .mast_inner .andr_button .andr_image { max-width: 12px;}
+    .mast_inner a, .mast_inner .andr_button { max-width: 165px;}
+    .mast_inner a span { font-size: 12px; display: inline-block; width: 106px; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; top: 7px;}
+    .travelling_advisory { margin: 20px 20px 25px 15px;}
+    .mkp_banner span img { max-width: 100px;}
+    .deals_content label { font-size: 16px;}
+    .deals_content { font-size: 14px;}
+    .deals_content strong { font-size: 25px;}
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1365px){
+    .login_screen_bg { padding: 78px 0; height: 646px;}
+    #nav-top.nav > li { margin-right: 0; margin-left: -2px;}
+    #nav-top.nav a { padding: 0.8em 1.1em 0.4em;}
+    .nav > li:hover > ul { margin-left: 0;}
+    .nav > li li:hover > ul { left: -343px; right: 100%;}
+    /*.search_drpdn button, .search_btn { width: 120px;}*/
+    .main_logo img { width: 100%;}
+    .cst_ico img { width: 16px;}
+    .api_ico img, .notification_ico img { width: 20px;}
+    .small_icon { width: 6px !important; left: 28px; top: 12px;}
+    .round_image { width: 24px; margin-right: 7px; position: relative; top: 4px;}
+    .round_image img { width: 34px;}
+    .for-sm-xs .nav > li:last-child a:before { top: 57%; right: 0;}
+    .for-sm-xs .nav > li:last-child a { margin-top: -5px;}
+    .for-sm-xs .nav > li:first-child a:before { right: 0;}
+    .comon_bg_style { padding: 15px; height: 340px; margin-bottom: 20px;}
+    #container, #container1, #container2 { height: 235px;}
+    .graph-cont a img { width: 54px;}
+    .main_malware .malware_modal .modal_inner_padding .nav-tabs { border-bottom: none;}
+    .threat_intel_section { height: 330px;}
+    .security_tips_inner_section { height: 300px; padding: 22px;}
+    .agglometer_inner_section { height: 600px;}
+    .all { width: auto;}
+    .security_tools_inner { margin-top: 10px; height: 210px;}
+    #issuerCountry, #targetCountry { margin-left: 0;}
+    .mast_inner a img { display: none;}
+    .mast_inner .andr_button .andr_image { max-width: 12px;}
+    .mast_inner a, .mast_inner .andr_button { max-width: 138px;}
+    .mast_inner a span { font-size: 12px; display: block; width: 110px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; margin-left: 10px;}
+    .custom_search_have_pwned { width: auto; margin: 30px auto 0;}
+    .travelling_table table tbody tr td span, .travelling_table table tbody tr td a { font-size: 14px;}
+    .th_int_inner p { -webkit-line-clamp: 4; overflow: auto;}
+    .mobile_app_security_inner_section { padding: 22px;}
+    .agglometer_section p { font-size: 16px;}
+    .travelling_advisory { margin: 20px 20px 25px 15px;}
+    .mkp_banner span img { max-width: 90px;}
+    .deals_content label { font-size: 14px;}
+    .deals_content { font-size: 14px; padding:12px 0 0;}
+    .deals_content strong { font-size: 20px;}
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1199px) {
+    .login_screen_bg { padding: 78px 0; height: 646px;}
+    .main_header { height: 60px;}
+    .for-sm-xs .navbar { padding-left: 0; padding-right: 0;}
+    #nav-top.nav > li { margin-right: 0; margin-left: -8px;}
+    .notification_ico img:first-child, .cst_ico img, .api_ico img { width: 16px;}
+    .small_icon { left: 22px; width: 6px;}
+    .round_image { width: 20px;}
+    .round_image img { width: 30px;}
+    #nav-top.nav a { padding: 0.8em 1.1em 0.4em; font-size: 12px;}
+    .nav li a:first-child:nth-last-child(2):before { right: 0px;}
+    .search_drpdn button, .search_btn { width: 110px; font-size: 11px; height: 30px;}
+    .custom_search input { height: 30px;}
+    .custom_search input[type=checkbox] { height: auto;}
+    .main_logo img { width: 100%; margin-top: 10px;}
+    .nav > li:hover > ul { margin-left: 0;}
+    .nav > li li:hover > ul { left: -343px; right: 100%;}
+    .nav > li:last-child:hover > ul { margin-left: -55px;}
+    .security_new_section .nav-tabs { margin-left: 0;}
+    .security_new_section .nav-tabs .nav-link { font-size: 10px; margin-right: 2px;}
+    .security_new_section .nav-tabs li:last-child .nav-link { margin-right: 0;}
+    .comon_bg_style { padding: 15px; height: 310px; margin-bottom: 20px; font-size: 14px;}
+    #container, #container1, #container2 { height: 225px;}
+    .graph-cont a img { width: 54px;}
+    .side-navi-data1 { width: 980px; height: 400px; top: -140px; overflow: auto;}
+    .dd_security_news, .dd_vulnerability, .dd_risk_rating, .dd_exploits, .dd_malware { margin: 0px auto 10px; width: 180px;}
+    .data_dna_inner_table { margin-left: 0px;}
+    .main_malware .malware_modal .modal_inner_padding .nav-tabs { border-bottom: none;}
+    .security_tips_inner_section { padding: 22px; margin: 10px 15px 20px 0;}
+    .agglometer_inner_section { height: 580px;}
+    .all { width: auto; font-size: 12px;}
+    .security_tools_inner { margin-top: 10px; height: 210px;}
+    #issuerCountry, #targetCountry { margin-left: 0;}
+    .mast_inner a img { display: none;}
+    .mast_inner .andr_button .andr_image { max-width: 12px;}
+    .mast_inner a, .mast_inner .andr_button { max-width: 114px;}
+    .mast_inner a span { font-size: 12px; display: block; width: 100px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; margin-left: 10px;}
+    .custom_search_have_pwned { width: auto; margin: 30px auto 0;}
+    .travelling_table table tbody tr td span, .travelling_table table tbody tr td a { font-size: 14px;}
+    .th_int_inner p { -webkit-line-clamp: 4; overflow: auto;}
+    .mobile_app_security_inner_section { padding: 22px; font-size: 12px;}
+    .travelling_advisory h4, .security_tips_inner_section h4, .ports_information_inner h2, .have_pwned_inner h2, .mobile_app_security_section h4, .agglometer_inner_section h4, .comon_bg_style h2, .security_new_section h2, .vulnerability_section h2 { font-size: 16px;}
+    .st_inner p { -webkit-line-clamp: 4; overflow: auto;}
+    .st_inner label, .th_int_inner label, .have_pwned_inner, .agglometer_section p { font-size: 12px;}
+    .travelling_advisory { margin: 0px 15px 25px 15px; overflow: scroll;}
+    .meter_height { margin-top: 140px;}
+    .mkp_banner span img { max-width: 90px;}
+    .deals_content label { font-size: 12px; margin-bottom: 0;}
+    .deals_content { font-size: 12px; padding:5px 0 0;}
+    .deals_content strong { font-size: 16px;}
+    .deals_content a { padding: 3px 10px; margin-top: 5px;}
+}
+
+@media screen and (min-width: 992px) and (max-width: 1023px) {
+    .login_screen_bg { padding: 78px 0; height: 608px;}
+    #top-search.for-sm-xs-search { flex: 100%; max-width: 100%; margin: 10px auto 0;}
+    #main-top-nav.for-sm-xs { flex: 100%; max-width: 100%; margin: 0; right: 0; position: absolute; top: 0;}
+    .security_new_section .nav-tabs { margin-left: 0;}
+    .security_new_section .nav-tabs .nav-link { font-size: 10px; margin-right: 2px; padding: 8px 9px;}
+    .security_new_section .nav-tabs li:last-child .nav-link { margin-right: 0;}
+    .security_new_section { padding-left: 10px;}
+    .comon_bg_style h2, .security_new_section h2, .vulnerability_section h2 { font-size: 18px;}
+    .comon_bg_style { padding: 10px; height: 330px; font-size: 15px; margin-bottom: 20px;}
+    #container, #container1, #container2 { height: 230px;}
+    .side-navi-data { width: 950px; height: 550px; top: -60px;}
+    .sideNavi { top: 15%;}
+    .data_dna_inner { margin: 0 0 20px 15px; width: 96%;}
+    .data_dna_inner_table { margin-left: 0px;}
+    .dd_user_setting select { margin-bottom: 15px;}
+    .dd_user_setting { padding-left: 10px;}
+    .add_row_div { max-width: 96%;}
+    .range-labels li { margin-left: 56px;}
+    .side-navi-data1 { width: 950px; height: 400px; top: -100px; overflow: auto;}
+    .dd_security_news, .dd_vulnerability, .dd_risk_rating, .dd_exploits, .dd_malware { margin: 0px auto 10px; width: 180px;}
+    .data_dna_inner_table table { max-width: 910px;}
+    .main_malware .malware_modal .modal_inner_padding .nav-tabs { border-bottom: none;}
+    .security_tips_inner_section { padding: 22px; margin: 10px 15px 20px 0;}
+    .agglometer_inner_section { height: 580px;}
+    .all { width: auto; font-size: 12px;}
+    .security_tools_inner { margin-top: 10px; height: 210px;}
+    #issuerCountry, #targetCountry { margin-left: 0;}
+    .mast_inner a img { display: none;}
+    .mast_inner .andr_button .andr_image { max-width: 12px;}
+    .mast_inner a, .mast_inner .andr_button { max-width: 110px;}
+    .mast_inner a span { font-size: 12px; display: block; width: 100px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; margin-left: 10px;}
+    .custom_search_have_pwned { width: auto; margin: 30px auto 0;}
+    .travelling_table table tbody tr td span, .travelling_table table tbody tr td a { font-size: 14px;}
+    .th_int_inner p { -webkit-line-clamp: 4; overflow: auto;}
+    .mobile_app_security_inner_section { padding: 22px; font-size: 12px;}
+    .travelling_advisory h4, .security_tips_inner_section h4, .ports_information_inner h2, .have_pwned_inner h2, .mobile_app_security_section h4, .agglometer_inner_section h4, .comon_bg_style h2, .security_new_section h2, .vulnerability_section h2 { font-size: 16px;}
+    .st_inner p { -webkit-line-clamp: 4; overflow: auto;}
+    .st_inner label, .th_int_inner label, .have_pwned_inner, .agglometer_section p { font-size: 12px;}
+    .travelling_advisory { margin: 0px 15px 25px 15px; overflow: scroll;}
+    .meter_height { margin-top: 140px;}
+    .mkp_banner span img { max-width: 90px;}
+    .deals_content label { font-size: 12px; margin-bottom: 0;}
+    .deals_content { font-size: 12px; padding:5px 0 0;}
+    .deals_content strong { font-size: 16px;}
+    .deals_content a { padding: 3px 10px; margin-top: 5px;}
+    .security_tips_inner_section .carousel-indicators-dots { left: 75%;}
+}
+
+@media screen and (min-width: 767px) and (max-width: 991px) {
+    .login_screen_bg { padding: 78px 0; height: 608px;}
+    #top-search.for-sm-xs-search { flex: 100%; max-width: 100%; margin: 10px auto 0;}
+    #main-top-nav.for-sm-xs { flex: 100%; max-width: 100%; margin: 0; right: 0; position: absolute; top: 0;}
+    .security_new_section .nav-tabs { margin-left: 0;}
+    .security_new_section .nav-tabs .nav-link { font-size: 10px; margin-right: 2px; padding: 8px 0;}
+    .security_new_section .nav-tabs li:last-child .nav-link { margin-right: 2px;}
+    .security_new_section { padding-left: 10px;}
+    .comon_bg_style h2, .security_new_section h2, .vulnerability_section h2 { font-size: 18px;}
+    .comon_bg_style { padding: 10px; height: 290px; font-size: 12px; margin-bottom: 20px;}
+    .risk_rating_inner table { font-size: 12px;}
+    #container, #container1, #container2 { height: 210px;}
+    .side-navi-data { width: 700px; height: 550px; top: -60px;}
+    .sideNavi { top: 15%;}
+    .data_dna_inner { margin: 0 0 20px 15px; width: 96%;}
+    .data_dna_inner_table { margin-left: 0px;}
+    .dd_user_setting select { margin-bottom: 15px;}
+    .dd_user_setting { padding-left: 10px;}
+    .add_row_div { max-width: 94%;}
+    .range-labels li { margin-left: 56px;}
+    .side-navi-data1 { width: 700px; height: 550px; top: -270px; overflow: auto;}
+    .dd_security_news, .dd_vulnerability, .dd_risk_rating, .dd_exploits, .dd_malware { margin: 0px auto 10px; width: 325px;}
+    .main_malware .malware_modal .modal_inner_padding .nav-tabs { border-bottom: none;}
+    .security_tips_inner_section { padding: 22px; margin: 10px 15px 20px 0; height: 285px;}
+    .agglometer_inner_section { height: 580px;}
+    .all { width: auto; font-size: 12px;}
+    .security_tools_inner { margin-top: 10px; height: 210px;}
+    #issuerCountry, #targetCountry { margin-left: 0; display: block;}
+    .mast_inner a img { display: none;}
+    .mast_inner .andr_button .andr_image { max-width: 12px;}
+    .mast_inner a, .mast_inner .andr_button { max-width: 76px;}
+    .mast_inner a span { font-size: 12px; display: block; width: 60px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; margin-left: 10px;}
+    .custom_search_have_pwned { width: auto; margin: 15px auto 0;}
+    .travelling_table table tbody tr td span, .travelling_table table tbody tr td a { font-size: 14px;}
+    .th_int_inner p { -webkit-line-clamp: 4; overflow: auto;}
+    .mobile_app_security_inner_section { padding: 22px; font-size: 12px;}
+    .travelling_advisory h4, .security_tips_inner_section h4, .ports_information_inner h2, .have_pwned_inner h2, .mobile_app_security_section h4, .agglometer_inner_section h4, .comon_bg_style h2, .security_new_section h2, .vulnerability_section h2, .security_tools_inner h2 { font-size: 16px;}
+    .st_inner p { -webkit-line-clamp: 4; overflow: auto;}
+    .st_inner label, .th_int_inner label, .have_pwned_inner, .agglometer_section p { font-size: 12px;}
+    .travelling_advisory { margin: 0px 15px 25px 15px;}
+    .meter_height { margin-top: 140px;}
+    .tr_ad_inner_left, .tr_ad_inner_right { flex: 100%; max-width: 100%;}
+    .mkp_banner span img { max-width: 70px;}
+    .deals_content label { font-size: 10px; margin-bottom: 0;}
+    .deals_content { font-size: 10px; padding:5px 0 0;}
+    .deals_content strong { font-size: 12px;}
+    .deals_content a { padding: 2px 10px; margin-top: 0;}
+    .security_tips_inner_section .carousel-indicators-dots { left: 75%;}
+    .travelling_table nav { float: none; margin-left: auto;}
+}
+
+@media screen and (max-width: 600px){
+    .main_logo { flex: 100%;}
+    .cst_ico img, .api_ico img,.round_image img { display: none;}
+    .small_icon { top:16px;}
+    #main-top-nav.for-sm-xs { position: absolute; max-width: 100% !important; top: 50px;}
+    #main-top-nav.for-sm-xs .navbar { width: 100%;}
+    #main-top-nav.for-sm-xs .navbar ul { margin: 0 auto;}
+    /*#main-top-nav.for-sm-xs .nav a { font-size: 14px;}*/
+    #main-top-nav.for-sm-xs .nav > li:last-child a { margin-top: 0 !important;}
+    .round_image { display: none;}
+    #top-search.for-sm-xs-search { margin: 60px auto 0 !important;}
+    .show_hide2 { top: 110px;}
+    .notification_menu:hover > ul { position: absolute; left: -100px !important;}
+    .nav > li:hover > ul { margin-left: -50px !important;}
+    .nav > li li:hover > ul { left: -6px !important;}
+    .nav > li:last-child:hover > ul li a { font-size: 12px;}
+    #main-top-nav.for-sm-xs .nav > li:last-child a:before { top: 50% !important;}
+    .security_tips_inner_section .carousel-indicators-dots { left: 75%;}
+}
+
+@media screen and (min-width: 320px) and (max-width: 766px) {
+    .login_screen_bg { padding: 40px 0;}
+    .nav > li { margin-right: 0;}
+    #nav-top.nav a { padding: 0.8em 1.2em 0.4em; font-size: 12px;}
+    .notification_ico img:first-child, .cst_ico img, .api_ico img { width: 16px;}
+    .round_image { width: 20px;}
+    .round_image img { width: 28px;}
+    .small_icon { width: 6px !important; left: 26px;}
+    #main-top-nav.for-sm-xs .navbar { padding-right: 0; padding-left: 0;}
+    .nav li a:first-child:nth-last-child(2):before { right: 0;}
+    #main-top-nav.for-sm-xs .nav > li:last-child a { margin-top: -6px;}
+    #top-search.for-sm-xs-search { flex: 100%; max-width: 100%; margin: 10px auto 0;}
+    #main-top-nav.for-sm-xs { position: absolute; right: 0; max-width: 60%;}
+    #navbarSupportedContent41 .nav { text-align: center; display: block;}
+    #navbarSupportedContent41 .nav > li { float: none;}
+    #navbarSupportedContent41 .nav a { display: inline-block;}
+    #navbarSupportedContent41 .nav > li li:hover > ul { right: 0; top: 40px; left: 0;}
+    #navbarSupportedContent41 .nav > li:hover > ul { margin-left: 8px;}
+    .main_sat { width: auto;}
+    .custom_search input, .search_drpdn ul, .search_btn { width: 100% !important; margin: 0 0 10px !important;}
+    .search_btn { height: 40px;}
+    .search_drpdn button { width: 100%; text-align: left;}
+    .search_drpdn { width: 100%; margin: 0 0 10px;}
+    .search_drpdn ul li label input[type=checkbox] { width: auto !important;}
+    .search_drpdn ul li { width: auto !important; display: inline-block;}
+    .heart_beat { flex: 100%; max-width: 100%;}
+    .main_thrat_intel { width: auto;}
+    .range-labels li:first-child { margin-left: 8px !important;}
+    .range-labels.wdm_range li { margin-left: 29px;}
+    .col-range { width: 220px; margin-left: -15px;}
+    .nav > li li:hover > ul { left: 40%; top: 32px; width: 300px;}
+    .heartbeat_scanner ul li { white-space: pre-wrap;}
+    .heartbeat_scanner ul li a { padding: 10px 0px 10px 5px !important;}
+    .apple_icon { margin-right: 5px; margin-left: 5px;}
+    .dropdown-toggle::after { position: absolute; right: 10px; top: 20px;}
+    .security_news_tab_inner table { width: 100%;}
+    .security_news_tab_inner table td { width: 75%;}
+    .sat_modal_inner_padding h3 { font-size: 20px;}
+    .sat_modal_inner_padding { padding: 10px 0;}
+    .comon_bg_style h2, .security_new_section h2, .vulnerability_section h2 { font-size: 18px;}
+    .comon_bg_style { font-size: 14px;}
+    .modal_inner_padding { padding: 20px;}
+    .comon_modal_content { font-size: 16px;}
+    .vul_modal_inner_padding { padding: 10px; font-size: 12px;}
+    .risk_rating_inner table { font-size: 12px;}
+    #container, #container1, #container2 { max-width: 100%;}
+    .side-navi-data { width: 280px; height: 460px; top: -60px;}
+    .sideNavi { top: 15%;}
+    .data_dna_inner { margin: 0 0 20px 10px; width: 92%;}
+    .data_dna_inner_table { margin-left: 0px;}
+    .dd_user_setting select { margin-bottom: 15px;}
+    .dd_user_setting { padding-left: 10px;}
+    .add_row_div { max-width: 94%;}
+    .range-labels li { margin-left: 42px;}
+    .side-navi-data1 { width: 280px; height: 450px; top: -220px; overflow: auto;}
+    .dd_security_news, .dd_vulnerability, .dd_risk_rating, .dd_exploits, .dd_malware { margin-bottom: 10px; margin-right: 0; width: 100%;}
+    .main_malware { width: auto;}
+    .malware_tab_inner { width: 100%;}
+    .malware_tab_inner table tbody tr td { padding: 8px 30px; font-size: 12px;}
+    .main_malware .malware_modal .modal_inner_padding .nav-tabs { border-bottom: none;}
+    .sec_footer { margin: 50px auto 0; text-align: center;}
+    .patch_inner { height: 320px;}
+    #left-content.left_side_section, #right-content.right_side_section { flex: 100%; max-width: 100%;}
+    .threat_intel_section { margin-top: 20px;}
+    .security_tips_inner_section { margin:0 30px 20px 0; overflow: scroll; height: 280px;}
+    #mobile-security.right_side_section, .mobile_app_security_section { max-width: 100% !important; flex: 100% !important;}
+    .meter_height { margin-top: -30px;}
+    #security-sec.security_tools_section { max-width: 100%; flex: 100%;}
+    .mast_inner a, .mast_inner .andr_button { max-width: 155px;}
+    .mast_inner a span { font-size: 12px; display: inline-block; width: 90px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; margin-left: 10px;}
+    .botnet_ips .side-navi-data2.popdiv { width: 270px;}
+    .botnet_ips .side-navi-tab1 { overflow: auto;}
+    .botnet_ips { top: 90px;}
+    .travelling_advisory{ margin: 0 50px 20px 15px; overflow: scroll;}
+    .ports_information_section { padding-right: 30px !important;}
+    .have_pwned_section { margin-right: 15px;}
+    .mobile_app_security_inner_section .carousel-indicators-dots { left: 75%;}
+    .agglometer_inner_section { overflow: scroll;}
+    #issuerCountry, #targetCountry { width: 100%;}
+    .travelling_table nav { float: none; margin-left: auto;}
+}

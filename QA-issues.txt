@@ -1,0 +1,144 @@
+Frontend:
+
+
+
+________________________DONE_______________________________________
+___________________________________________________________________
+
+CER-615 => CER-191-Frontend - Vulnerability - Official fix- Not redirected to URL (Done)
+CER-613 => CER-191- Frontend - Vulnerability- Exploit- CTA to be 'Not Available' (Done)
+CER-672 => CER-172- Frontend - Customer Account Activation- No pop up on 'first login' ( Done)
+CER-643 => CER-209- Floating Widget - Data2DNA- Incorrect message for Add (Done)
+
+CER-653 => CER-212- Frontend - Pop up - Security Tips- Error (Done)
+CER-652 => CER-211- Frontend - Security Tips - Error- Nothing is displayed (Done)
+CER-628 => CER-204-Frontend - Pop up - Malware - Latest Malware entries (Done)
+CER-643 => CER-209- Floating Widget - Data2DNA- Incorrect message for Add (Done)
+CER-630 => CER-204-Frontend - Pop up - Malware- Tabs not sorted (Done)
+CER-651 => CER-210- Floating Widget - User Setting- Latest entries not shown (Done)
+CER-639 => CER-209- Floating Widget - Data2DNA- Filters as 'Security News', 'Patch', 'Vulnerability', 'Malware' information not saving (Done)
+CER-641 => CER-209- Floating Widget - Data2DNA - vulnerability drop down shows limited entries (Done) 
+CER-642 => CER-209- Floating Widget - Data2DNA- Malware drop down shows limited entries (Done)
+CER-612 => CER-191- Frontend - Vulnerability- Incorrect data on Vulnerability Column (done)
+CER-666 => CER-216- Frontend - Pop up - Travel Advisory - Advisory Level displays incorrect data (Done)
+CER-665 => CER-216- Frontend - Pop up - Travel Advisory- 'Last Update Date' missing (Done)
+CER-679 => CER-182- Frontend - Screen 1- Logo redirection. (Done)
+CER-682 => CER-205-Frontend - Pop up - Malware - Individual Entry Information- 'Name' field incorrect data (done)
+CER-678 =>CER-178- Frontend - Customer "Reset Password"- Does not redirect to login (Done)
+CER-677 => CER-178- Frontend - Customer "Reset Password" (Done)
+CER-674 => CER-176- Frontend - Customer Login Screen- Error without submitting Login (Done)
+CER-670 => CER-171- Frontend - Customer Sign-up Screen- URL (done)
+CER-171- Frontend - Customer Sign-up Screen- Incorrect response message for 'Password' field (Done)
+CER-667 => CER-171- Frontend - Customer Sign-up Screen- Invalid response message (Done)
+CER-658 => CER-215- Frontend - Travel Advisory- All 'categories' not displayed (Done)
+CER-638 => CER-209- Floating Widget - Data2DNA- Security News-> 'Categories' are not shown (Done)
+CER-631 => CER-205- Frontend - Pop up - Malware - Individual Entry Information- Incorrect heading (Done)
+CER-624 => CER-200-Frontend - Pop up - Patch- 'Short description' field missing (Done) 
+CER-622 => CER-202-Frontend - Pop up - Top Exploit- Incorrect heading (done)
+CER-621 => CER-202-Frontend - Pop up - Top Exploit- 'Link' is missing (done)
+CER-610 => CER-188-Frontend - Blog News - Security News- Date format (Done)
+CER-609 => CER-190-Frontend - Pop up - All News - Correct header as "All News" (Done)
+CER-607 => CER-189- Pop up - Latest News- Make header as "Latest News" (Done)
+
+
+
+
+
+
+
+
+==========================================================================================================================
+==========================================================================================================================
+==========================================================================================================================
+
+UI related:
+
+CER-692 => CER-182- Frontend - Screen 1- Navigation bar font color incorrect.
+
+CER-690 => CER-204- Frontend - Pop up - Malware - 'Name' field font color
+
+CER-689 => CER-204- Frontend - Pop up - Malware - 'Tabs' Font color are incorrect
+
+CER-688 => CER-182-Frontend - Screen 1- No spacing under modules
+
+CER-687 => CER-182-Frontend - Screen 1- Top navigation bar
+
+CER-686 => CER-182-Frontend - Screen 1- Navigation dots location
+
+CER-683 => CER-205- Frontend - Pop up - Malware - Individual Entry Information- Scroll bar
+CER-664 => CER-215- Frontend - Travel Advisory- Alignment of 'Title' & 'Date'
+CER-662 => CER-215- Frontend - Travel Advisory - Pagination icon
+CER-660 => CER-215- Frontend - Travel Advisory- 'All Categories' drop down Alignment issues
+CER-655 => CER-213-Frontend - Threat Intel- Section overlaps
+CER-650 => CER-210- Floating Widget - User Setting- Text is not inside the button (cosmetic bug)
+CER-644 => CER-192- Pop up - Vulnerability- UI fix (Underline below heading)
+CER-636 => CER-209- Frontend - Floating Widget - Data2DNA to be located on the header
+CER-635 => CER-209- Frontend - Floating Widget - Data2DNA- Text needs to be inside the button
+CER-634 => CER-205- Frontend - Pop up - Malware - Individual Entry Info- underline missing under 'malware'
+CER-633 => CER-205- Frontend - Pop up - Malware - Individual Entry Information - 'Description' exceeds pop up
+CER-625 => CER-200-Frontend - Pop up - Patch- Hyperlink not in Yellow color
+CER-620 => CER-201-Frontend - Top 10 Exploits- Alignment of pagination
+CER-606 => CER-189- Pop up - 'Latest News' & 'Security News'- UI design
+
+
+
+
+
+==========================================================================================================================
+==========================================================================================================================
+==========================================================================================================================
+
+Backend Issues:
+
+CER-685 => CER-198- Frontend - Risk Rating CVSS Score- Incorrect count of Affected CVE
+CER-684 => CER-198- Frontend - Risk Rating CVSS Score- Incorrect CVSS score for 'low' severity
+CER-681 => CER-204- Frontend - Pop up - Malware - Draft entries are shown
+CER-680 => CER-186- Frontend - Latest News - Security News- Draft entries visible
+CER-676 => CER-177- Frontend - Customer "Forget password"- Incorrect title
+CER-675 => CER-176- Frontend - Customer Login Screen- Incorrect message
+CER-671 => CER-171- Frontend - Customer Sign-up Screen- Invalid text
+CER-669 => CER-171- Frontend - Customer Sign-up Screen- invalid email title
+CER-661 => CER-215- Frontend - Travel Advisory- Draft entry visible on front end
+CER-659 => CER-215- Frontend - Travel Advisory- Entries added are not shown on front end.
+CER-656 => CER-213- Frontend - Threat Intel- Draft enteries displayed
+CER-649 => CER-199-Frontend - Patch - Only Published entries to be shown
+CER-648 => CER-195- Top 10 Vulnerabilities - Percentage Graph- Draft entries are displayed
+CER-646 => CER-646-Frontend - Pop up - Patch- Entry saved as draft is shown on frontend
+CER-645 => CER-198- Frontend - Risk Rating CVSS Score- Draft entries also shown
+CER-623 => CER-199-Frontend - Patch - Entries not added
+CER-618 => CER-191- Frontend - Vulnerability- Draft entries are also displayed on front-end
+CER-611 => CER-191- Frontend - Vulnerability- Entry added at back-end is not shown on front-end
+CER-608 => CER-187- Frontend - All News - Security News- Entered data not shown
+CER-605 => CER-186-Security News- Latest News- Sorting issue
+CER-663 => CER-215- Frontend - Travel Advisory- Entries not sorted.
+CER-647 => CER-195- Frontend - Top 10 Vulnerabilities - Percentage Graph- Featured entries not shown
+CER-626 => CER-195-Frontend - Top 10 Vulnerabilities - Percentage Graph- Non-featured is displayed on front-end
+CER-616 => CER-191-Frontend - Vulnerability - Without selecting 'Not available' displays disable button.
+
+
+
+
+==========================================================================================================================
+==========================================================================================================================
+==========================================================================================================================
+Discussion required Or not a issue:
+CER-632 => CER-205- Frontend - Pop up - Malware - Individual Entry Information- Displays un-required fields without value
+CER-615 => CER-191-Frontend - Vulnerability - Official fix- Not redirected to URL
+
+==========================================================================================================================
+==========================================================================================================================
+==========================================================================================================================
+Not Issues:
+CER-657 => CER-214- Frontend - Pop up - Threat Intel- URL redirection issues
+CER-654 => CER-213- Frontend - Threat Intel- Link not redirecting
+CER-637 => CER-209- Frontend - Floating Widget - Data2DNA- Section cut off without scroll
+CER-617 => CER-193- Pop up - "Work-around" - Remedy- URL not clickable
+CER-614 => CER-194- Pop up - "Proof of Concept" - Exploit - Links are not clickable
+CER-627 => CER-195-Frontend - Top 10 Vulnerabilities - Percentage Graph- Display numeric value on graph
+
+CER-673 => CER-176- Frontend - Customer Login Screen- => The system must detect old customer by email. (If the email exists in DB) (It will be done when we will do)
+The system must display "Our privacy policy has been updated. Please reset your password by clicking on the link sent 
+to your registered email address. If you don't see it in your inbox, please check your spam folder”
+
+
+

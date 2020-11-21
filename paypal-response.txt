@@ -1,0 +1,22 @@
+The payment was succeeded! 
+{paid: true, cancelled: false, payerID: "6UAE9V39Y3AF6", paymentID: "PAYID-L2X7EIY9R105588AT619564A", paymentToken: "EC-9BP19734PD066010G", …}
+address:
+city: "San Jose"
+country_code: "US"
+line1: "1 Main St"
+postal_code: "95131"
+recipient_name: "test buyer"
+state: "CA"
+__proto__: Object
+cancelled: false
+email: "imranmushtaq1987-buyer@gmail.com"
+paid: true
+payerID: "6UAE9V39Y3AF6"
+paymentID: "PAYID-L2X7EIY9R105588AT619564A"
+paymentToken: "EC-9BP19734PD066010G"
+returnUrl: "https://www.paypal.com/checkoutnow/error?paymentId=PAYID-L2X7EIY9R105588AT619564A&token=EC-9BP19734PD066010G&PayerID=6UAE9V39Y3AF6"
+__proto__: Object
+
+
+
+The payment was cancelled! {paymentToken: "EC-7U5181417U579744S", paymentID: "PAYID-L2X7DSA7F951955YB386414P", intent: "sale", billingID: "EC-7U5181417U579744S", cancelUrl: "https://www.paypal.com/checkoutnow/error?token=EC-7U5181417U579744S", …}
